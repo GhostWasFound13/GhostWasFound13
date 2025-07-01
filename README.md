@@ -6,7 +6,7 @@
 ---
 
 - 🔭 Currently building: **Discord bots, APIs, and game systems**
-- 🧠 Learning: **Mongoose**, **Websockets**, and **Microservices**
+- 🧠 Learning: **Mongoose**, **express**, and **android app**
 - 💬 Ask me about: `Node.js`, `MongoDB`, `Express`, `Game dev logic`, `and etc`
 - 🌍 Based in: **Indonesia**
 - ⚡ Fun fact: *I coding a api with a strong Coffee ☕*
